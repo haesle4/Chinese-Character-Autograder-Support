@@ -1,8 +1,5 @@
-# Chinese Character Autograder – Support
-
 ## Contact
-📧 Email: keanehaesle@gmail.com  
-⏱ Response time: 24–48 hours
+Email: keanehaesle@gmail.com 
 
 ---
 
