@@ -1,2 +1,2 @@
 # Chinese-Character-Writer-Support
-Support page for the App Chinese Character Writer
+Support page for the app Chinese Character Writer
